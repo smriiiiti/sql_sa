@@ -1,5 +1,1 @@
-ALTER TABLE test ADD COLUMN age INTEGER;
-
-INSERT INTO test (age)  VALUES ('15'), ('20');
-
 SELECT * FROM test;
