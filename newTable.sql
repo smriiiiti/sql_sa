@@ -1,2 +1,1 @@
-SELECT title, year FROM movies
-WHERE year <= 2003;
+SELECT * from movies;
