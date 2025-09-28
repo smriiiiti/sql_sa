@@ -1,2 +1,2 @@
-SELECT title from movies
-where title like "toy story%"
+SELECT title FROM movies 
+WHERE director not LIKE "John Lasseter";
