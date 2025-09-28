@@ -1,2 +1,3 @@
-SELECT title FROM movies 
-WHERE director not LIKE "John Lasseter";
+SELECT title FROM movies
+ORDER BY title ASC
+LIMIT 5 OFFSET 5;
