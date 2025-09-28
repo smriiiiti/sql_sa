@@ -8,3 +8,6 @@ Learnt about: Select query , queries with constraint (WHERE Clause, AND/OR Keywo
 
 #Day 3:
 Studied DISTINCT Keyword, ORDER BY Clause, LIMIT & OFFSET, LIKE Keyword.
+
+#Day 4:
+revised all the topics previously learnt.
