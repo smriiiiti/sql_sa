@@ -12,3 +12,7 @@ Studied DISTINCT Keyword, ORDER BY Clause, LIMIT & OFFSET, LIKE Keyword.
 #Day 4:
 revised all the topics previously learnt.
 used LIKE with (%) wildcard character
+
+#Day 5:
+Multi-table queries with JOINs.
+Inner join
