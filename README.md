@@ -16,3 +16,4 @@ used LIKE with (%) wildcard character
 #Day 5:
 Multi-table queries with JOINs.
 Inner join
+created another tables named BUILDINGS and EMPLOYEES
