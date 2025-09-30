@@ -17,3 +17,6 @@ used LIKE with (%) wildcard character
 Multi-table queries with JOINs.
 Inner join
 created another tables named BUILDINGS and EMPLOYEES
+
+#Day 6:
+Studied Null Values, IS/ IS NOT NUll 
