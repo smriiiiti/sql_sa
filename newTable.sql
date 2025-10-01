@@ -1,4 +1,5 @@
-SELECT DISTINCT building_name, role 
+SELECT DISTINCT building_name
 FROM buildings 
   LEFT JOIN employees
-    ON building_name = building;
+    ON building_name = building
+WHERE role IS NULL;
