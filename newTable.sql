@@ -1,4 +1,4 @@
-SELECT name, role from employees
-left JOIN buildings
-on building=building_name
-where building IS NULL;
+SELECT title,domestic_sales,international_sales from boxoffice
+join movies
+on id=movie_id
+WHERE international_sales> domestic_sales
