@@ -1,4 +1,4 @@
-SELECT title,rating from boxoffice
-join movies
-on id=movie_id
-order BY rating DESC
+SELECT DISTINCT building_name, role 
+FROM buildings 
+  LEFT JOIN employees
+    ON building_name = building;
