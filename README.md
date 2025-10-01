@@ -10,7 +10,7 @@ Learnt about: Select query , queries with constraint (WHERE Clause, AND/OR Keywo
 Studied DISTINCT Keyword, ORDER BY Clause, LIMIT & OFFSET, LIKE Keyword.
 
 #Day 4:
-revised all the topics previously learnt.
+Revised all the topics previously learnt.
 used LIKE with (%) wildcard character
 
 #Day 5:
@@ -20,3 +20,6 @@ created another tables named BUILDINGS and EMPLOYEES
 
 #Day 6:
 Studied Null Values, IS/ IS NOT NUll 
+
+Day 7: 
+Revising Mulitple table queries
