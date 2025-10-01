@@ -1,3 +1,4 @@
-SELECT title,domestic_sales,international_sales from boxoffice
+SELECT title,rating from boxoffice
 join movies
 on id=movie_id
+order BY rating DESC
