@@ -1,4 +1,3 @@
-SELECT title, (international_sales + domestic_sales)/1000000 as gross_sales
-from movies
-join Boxoffice
-on id=movie_id;
+SELECT title, year
+FROM movies
+WHERE year % 2 = 0;
