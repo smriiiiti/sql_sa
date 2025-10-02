@@ -23,3 +23,6 @@ Studied Null Values, IS/ IS NOT NUll
 
 Day 7: 
 Revising Mulitple table queries
+
+Day 8: 
+Studied  Queries with expressions , AS keyword
