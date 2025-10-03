@@ -26,3 +26,6 @@ Revising Mulitple table queries
 
 Day 8: 
 Studied  Queries with expressions , AS keyword
+
+Day 9:
+Studied Aggregate functions, max, min, avg,sum, count...group by 
