@@ -1,3 +1,3 @@
-SELECT Building, sum(Years_employed) from employees
-as Average_years
-GROUP BY Building;
+SELECT role, count(*) as total_employees
+FROM employees
+group by role;
