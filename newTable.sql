@@ -1,3 +1,3 @@
-SELECT Role, avg(Years_employed) from employees
+SELECT Building, sum(Years_employed) from employees
 as Average_years
-GROUP BY Role;
+GROUP BY Building;
