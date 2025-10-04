@@ -1,3 +1,4 @@
-SELECT role, COUNT(*) as Number_of_artists
+SELECT role, SUM(years_employed)
 FROM employees
-group by role;
+GROUP BY role
+HAVING role = "Engineer";
