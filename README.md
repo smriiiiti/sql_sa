@@ -28,4 +28,7 @@ Day 8:
 Studied  Queries with expressions , AS keyword
 
 Day 9:
-Studied Aggregate functions, max, min, avg,sum, count...group by 
+Studied Aggregate functions, max, min, avg,sum, count...group by , Having Clause
+
+Day 10:
+Revised Group by , having clause
