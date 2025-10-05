@@ -32,3 +32,6 @@ Studied Aggregate functions, max, min, avg,sum, count...group by , Having Clause
 
 Day 10:
 Revised Group by , having clause
+
+Day 11:
+Order of Execution of a query
