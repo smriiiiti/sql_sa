@@ -1,2 +1,2 @@
 Alter table movies 
-Add Aspect_ratio float;
+Add Language text default English;
