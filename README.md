@@ -37,5 +37,5 @@ Day 11:
 Order of Execution of a query
 
 Day 12:
-Insert,update, delete, create , alter operations on a table
+Insert,update, delete, create , alter, drop operations on a table
 Created a new table named "DATABASE"

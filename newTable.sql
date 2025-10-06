@@ -1,2 +1,1 @@
-Alter table movies 
-Add Language text default English;
+Drop table IF EXISTS DATABASE;
