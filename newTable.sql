@@ -1,2 +1,2 @@
 Delete from Movies
-where year< 2005;
+where director= "Andrew Stanton";
