@@ -35,3 +35,6 @@ Revised Group by , having clause
 
 Day 11:
 Order of Execution of a query
+
+Day 12:
+Insert,update, delete, create operations on a table
