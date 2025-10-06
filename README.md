@@ -38,3 +38,4 @@ Order of Execution of a query
 
 Day 12:
 Insert,update, delete, create operations on a table
+Created a new table named "DATABASE"
