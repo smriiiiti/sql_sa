@@ -1,1 +1,1 @@
-SELECT* from Boxoffice;
+SELECT * from movies
