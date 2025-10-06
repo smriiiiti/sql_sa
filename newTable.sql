@@ -1,2 +1,5 @@
-Delete from Movies
-where director= "Andrew Stanton";
+CREATE TABLE Database (
+    Name TEXT,
+    Version FLOAT,
+    Download_count INTEGER
+);
